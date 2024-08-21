@@ -54,5 +54,7 @@
 
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+Aprendi a configurar o Docker ,
+Aprendi configurar , navegar pelo banco de dados
 
 
