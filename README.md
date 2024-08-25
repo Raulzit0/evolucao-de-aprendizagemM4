@@ -43,7 +43,7 @@
 - 
 - Metodologias ágeis : são uma forma de acelerar entregas de um determinado projeto
 - Diversidade e inclusão em tecnologia : Já a inclusão se trata de criar um ambiente para que sejam acolhidas todas as diversidades
-- Marca Pessoal e Plano de Carreira : sua imagem , softskill , ter autonomia en diversas areas.
+- Marca Pessoal e Plano de Carreira : sua imagem , softskill , ter autonomia em diversas areas.
 
   
 
